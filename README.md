@@ -1,6 +1,5 @@
 # Snake Game
-
-A console-based Snake game where players control a snake to eat food, grow longer, and earn points. The game ends if the snake hits the wall or itself.
+This project is a console Snake game. Control the snake with arrow keys to eat food, grow, and earn points. The game ends if the snake hits the wall or itself. Score is displayed on the screen.
 
 ### Installation
 
